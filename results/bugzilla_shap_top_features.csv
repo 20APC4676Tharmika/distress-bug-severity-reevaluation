@@ -1,0 +1,46 @@
+cls,feature,mean_abs_shap,is_distress
+Critical,crash,0.19555803,False
+Critical,blocker,0.10760382,False
+Critical,kw_frustration,0.084322564,True
+Critical,emo_fear,0.076066285,True
+Critical,crashes,0.07343778,False
+Critical,critical,0.05603823,False
+Critical,should,0.05304505,False
+Critical,kw_total,0.047336206,True
+Critical,the,0.04471751,False
+Critical,emo_sadness,0.043990914,True
+Critical,stack,0.042838544,False
+Critical,first,0.033088893,False
+Critical,page,0.032171387,False
+Critical,behavior,0.02881603,False
+Critical,what,0.02650678,False
+High,major,0.05517824,False
+High,select,0.03489336,False
+High,crash,0.031656224,False
+High,this bug,0.029875023,False
+High,html,0.027373146,False
+High,page,0.023236664,False
+High,2000,0.021480985,False
+High,apprunner,0.0186094,False
+High,bug has,0.017045792,False
+High,blocker,0.016127322,False
+High,of reproduce,0.015094582,False
+High,bug,0.01356967,False
+High,and,0.012113791,False
+High,now,0.011687302,False
+High,results,0.011607798,False
+Low,crash,0.13185453,False
+Low,kw_frustration,0.09072281,True
+Low,kw_total,0.07770028,True
+Low,build,0.055977862,False
+Low,should,0.05375947,False
+Low,problem,0.046235435,False
+Low,emo_fear,0.046150684,True
+Low,launch,0.043035265,False
+Low,moving,0.042860292,False
+Low,emo_anger,0.03282087,True
+Low,today,0.031200113,False
+Low,m18,0.029027078,False
+Low,the,0.028969537,False
+Low,try,0.028463753,False
+Low,spam,0.023993947,False
